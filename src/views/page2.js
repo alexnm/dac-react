@@ -10,7 +10,7 @@ const Page2 = (props) => {
       <Helmet>
         <title>dac</title>
       </Helmet>
-      <Component></Component>
+      <Component headingle="What the hell?"></Component>
     </div>
   )
 }
